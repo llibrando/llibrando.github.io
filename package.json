@@ -1,0 +1,20 @@
+{
+  "name": "Librando",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "learnyouhtml": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "learnyouhtml": "learnyouhtml",
+    "run": "learnyouhtml run index.html",
+    "verify": "learnyouhtml verify index.html"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
